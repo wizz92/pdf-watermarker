@@ -1,12 +1,7 @@
 {
-	"name": "binarystash/pdf-watermarker",
+	"name": "wizz92/pdf-watermarker",
 	"license": "MIT",
 	"description": "Watermark or stamp PDF documents",
-	"authors": [
-        {
-            "name": "BinaryStash"
-        }
-    ],
 	"require": {
 		"setasign/fpdf": "^1.7",
 		"setasign/fpdi": "^1.6"
