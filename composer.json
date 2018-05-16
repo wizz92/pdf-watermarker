@@ -11,5 +11,11 @@
 		"phpdocumentor/phpdocumentor": "2.*",
 		"evert/phpdoc-md" : "~0.0.7"
 	},
+	"autoload": {
+		"files": [
+			"pdfwatermarker/pdfwatermark.php",
+			"pdfwatermarker/pdfwatermarker.php"
+		]
+	},
 	"minimum-stability": "stable"
 }
